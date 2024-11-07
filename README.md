@@ -1,5 +1,6 @@
 Server-less Media Orchestration Stream using Amazon S3 and CloudFront
-Description
+
+Description :
 This document serves as a demonstrational guide for building a server-less video streaming solution using Amazon S3 and CloudFront. The setup allows global video content distribution with minimal latency, leveraging Amazon's edge locations.
 
 Key Steps
